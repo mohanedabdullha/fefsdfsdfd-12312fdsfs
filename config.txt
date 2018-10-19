@@ -1,0 +1,6 @@
+token=NTAyNzI5MDM5OTMzMzQxNzA3.DqsKtA.TQOqBRb3vFYDhYlvHRE3E_BImXk
+owner=485380710656507914
+prefix=L
+game=Type Lhelp
+stayinchannel=true
+songinstatus=true
